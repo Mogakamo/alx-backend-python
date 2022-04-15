@@ -5,9 +5,9 @@ from typing import List
 
 def sum_list(input_list: List[float]) -> float:
     """ Sums a list of floats
-    Args: 
+    Args:
         input_list (list): A list floats
-    Returns: 
+    Returns:
         float: the sum of the floats in the List
     """
     if input_list is None:
